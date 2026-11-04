@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Activity Detail | Seohyun Eom</title>
+    <meta name="description" content="활동 상세 정보를 보여주는 페이지입니다." />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body data-theme="light" data-lang="ko">
+    <header class="topbar">
+      <div class="container nav">
+        <a class="brand" href="index.html">
+          <span class="brand-mark">SE</span>
+          <span>SEOHYUN EOM</span>
+        </a>
+        <nav class="nav-links" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="about.html">About Me</a>
+          <a href="skills.html">Skills</a>
+          <a href="projects.html">Projects</a>
+          <a href="activities.html" class="active">Activities</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+        <div class="header-actions">
+          <button class="lang-switch is-active" type="button" data-lang-toggle="ko">KR</button>
+          <button class="lang-switch" type="button" data-lang-toggle="en">EN</button>
+          <button class="theme-button" type="button" data-theme-toggle aria-label="Toggle theme">🌙</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="container page-header">
+        <h1 class="lang-ko">Activity Detail</h1>
+        <h1 class="lang-en">Activity Detail</h1>
+      </section>
+
+      <section class="container section detail-layout">
+        <aside class="detail-panel">
+          <span class="pill lang-ko">활동</span>
+          <span class="pill lang-en">Activity</span>
+          <h2 data-detail-title></h2>
+          <div data-detail-summary></div>
+          <div class="meta-list">
+            <div class="meta-item">
+              <span class="meta-key lang-ko">분류</span>
+              <span class="meta-key lang-en">Category</span>
+              <span class="lang-ko" data-detail-category-ko>학습·협업 활동</span>
+              <span class="lang-en" data-detail-category-en>Learning and collaboration</span>
+            </div>
+            <div class="meta-item">
+              <span class="meta-key lang-ko">원본 자료</span>
+              <span class="meta-key lang-en">Source files</span>
+              <ul data-detail-sources></ul>
+            </div>
+          </div>
+        </aside>
+
+        <section class="detail-panel">
+          <div class="detail-content">
+            <div>
+              <h3 class="lang-ko">활동 내용</h3>
+              <h3 class="lang-en">Main points</h3>
+              <ul data-detail-list></ul>
+            </div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container footer-inner">
+        <div><strong>SEOHYUN EOM</strong></div>
+        <div>© 2026 Seohyun Eom Portfolio</div>
+      </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

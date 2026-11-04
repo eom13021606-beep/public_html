@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact | Seohyun Eom</title>
+    <meta name="description" content="엄서현 포트폴리오의 연락 페이지입니다." />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body data-theme="light" data-lang="ko">
+    <header class="topbar">
+      <div class="container nav">
+        <a class="brand" href="index.html">
+          <span class="brand-mark">SE</span>
+          <span>SEOHYUN EOM</span>
+        </a>
+        <nav class="nav-links" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="about.html">About Me</a>
+          <a href="skills.html">Skills</a>
+          <a href="projects.html">Projects</a>
+          <a href="activities.html">Activities</a>
+          <a href="contact.html" class="active">Contact</a>
+        </nav>
+        <div class="header-actions">
+          <button class="lang-switch is-active" type="button" data-lang-toggle="ko">KR</button>
+          <button class="lang-switch" type="button" data-lang-toggle="en">EN</button>
+          <button class="theme-button" type="button" data-theme-toggle aria-label="Toggle theme">🌙</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="container page-header">
+        <h1 class="lang-ko">Contact</h1>
+        <h1 class="lang-en">Contact</h1>
+        <p class="lang-ko">프로젝트나 협업, 방문에 대한 문의를 남겨주시면 확인 후 답변드리겠습니다.</p>
+        <p class="lang-en">Please send a message for inquiries about projects, collaboration, or visits.</p>
+      </section>
+
+      <section class="container section contact-grid">
+        <article class="contact-card">
+          <h3 class="lang-ko">연락처</h3>
+          <h3 class="lang-en">Contact info</h3>
+          <p class="lang-ko">이메일 주소를 통해 문의하실 수 있습니다.</p>
+          <p class="lang-en">You can reach me by email.</p>
+          <a href="mailto:seohyun.eom@example.com">seohyun.eom@example.com</a>
+        </article>
+
+        <article class="contact-card">
+          <h3 class="lang-ko">관심 분야</h3>
+          <h3 class="lang-en">Areas of interest</h3>
+          <p class="lang-ko">식품영양, 식품 안전, 자료 조사, 협업 프로젝트</p>
+          <p class="lang-en">Food and nutrition, food safety, research, and collaborative projects</p>
+        </article>
+      </section>
+
+      <section class="container section">
+        <div class="contact-card">
+          <h3 class="lang-ko">메시지 보내기</h3>
+          <h3 class="lang-en">Send a message</h3>
+          <form class="form-box" action="mailto:seohyun.eom@example.com" method="post" enctype="text/plain">
+            <div class="form-row">
+              <input type="text" name="name" placeholder="Name" aria-label="Name" />
+              <input type="email" name="email" placeholder="Email" aria-label="Email" />
+            </div>
+            <input type="text" name="subject" placeholder="Subject" aria-label="Subject" />
+            <textarea name="message" placeholder="Message" aria-label="Message"></textarea>
+            <button class="primary-button" type="submit">
+              <span class="lang-ko">보내기</span>
+              <span class="lang-en">Send</span>
+            </button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container footer-inner">
+        <div><strong>SEOHYUN EOM</strong></div>
+        <div>© 2026 Seohyun Eom Portfolio</div>
+      </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
