@@ -1,0 +1,45 @@
+{
+  "name": "Seohyun Eom",
+  "nameEn": "Seohyun Eom",
+  "affiliation": "Hallym University, Department of Food Science and Nutrition",
+  "affiliationEn": "Hallym University, Dept. of Food Science and Nutrition",
+  "entranceYear": 2023,
+  "tagline": "A food and nutrition student who learns, explores, and grows through diverse experiences.",
+  "shortBio": "Grounded in food science and nutritional biochemistry, I am deeply passionate about food processing, product development, and food safety quality assurance. Bridging major expertise with data science, business insights, and smart digital tools, I continuously strive to solve real-world industry challenges and pioneer meaningful value.",
+  "contactEmail": "seohyun.eom.portfolio@gmail.com",
+  "interests": [
+    {
+      "id": "processing-development",
+      "title": "Food Processing, Development & Industry",
+      "description": "Exploring customized dietary solutions and functional meal kits aligned with cutting-edge FoodTech trends and modern consumer lifestyles."
+    },
+    {
+      "id": "hygiene-safety",
+      "title": "Food Hygiene, Safety & Quality Assurance",
+      "description": "Committed to rigorous hygiene compliance, scientific QA, and HACCP standards in foodservice and institutional dining facilities."
+    },
+    {
+      "id": "data-management",
+      "title": "Data Analytics & Business Convergence",
+      "description": "Applying statistical regression, machine learning, and management information systems to analyze consumer patterns and supply chain risks."
+    }
+  ],
+  "aboutSections": [
+    {
+      "title": "Academic Foundations and Inquiry",
+      "content": "Since matriculating at Hallym University in 2023 in Food Science and Nutrition, I have built solid foundations in nutritional biology, food chemistry, culinary principles, and food hygiene. Moving beyond textbook knowledge, I have validated scientific mechanisms through laboratory experiments, fieldwork, and in-depth analytical reporting."
+    },
+    {
+      "title": "Vision for Food Processing and Development",
+      "content": "Food is a vital medium that shapes individual quality of life. Through projects such as the 'DASH-T' chrononutrition meal-kit design for hypertension and extensive research into global FoodTech trends, I have honed the capability to formulate scientifically backed, highly viable food solutions tailored to modern living."
+    },
+    {
+      "title": "Field Experience in Food Hygiene and Safety",
+      "content": "During my dietitian field internship at the Center for Children and Social Welfare Foodservice Management, I conducted hygiene audits, ATP contamination testing, and created safety educational cards for kitchen workers. This experience cemented my conviction that safety and hygiene are foundational trust-builders with consumers."
+    },
+    {
+      "title": "Cross-Disciplinary Growth: Data and Business",
+      "content": "Through coursework in management information systems, machine learning classification, multiple regression analysis, and corporate CSR case studies, I have expanded my perspective. Combining nutritional science with data-driven decision-making, I am advancing as a well-rounded professional ready for future food industry leadership."
+    }
+  ]
+}

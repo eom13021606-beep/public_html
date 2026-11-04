@@ -1,0 +1,159 @@
+[
+  {
+    "id": "dietitian-practicum-2025",
+    "year": 2025,
+    "title": "Dietitian Field Practicum at Gwangjin-gu Center for Children & Social Welfare Foodservice",
+    "titleEn": "Dietitian Field Practicum at Gwangjin-gu Center for Children & Social Welfare Foodservice",
+    "category": "Field Practicum",
+    "period": "2025.06 - 2025.07",
+    "organization": "Gwangjin-gu Center for Children & Social Welfare Foodservice Management",
+    "role": "Dietitian Intern",
+    "summary": "Conducted on-site sanitation supervision across community childcare centers, rapid ATP microbial swabbing, produced kitchen safety card news, and formulated specialized diets.",
+    "purpose": "Apply nutritional science and food hygiene theories to real-world institutional foodservice operations and acquire hands-on supervision and consulting competencies.",
+    "tasks": [
+      "Conducted on-site hygiene audits using standardized inspection checklists in community kitchens.",
+      "Quantitatively validated cookware sanitization efficacy using ATP bioluminescence meters.",
+      "Designed and published an 8-slide occupational accident prevention card news series for cooks.",
+      "Formulated tooth-friendly elderly menus and community nutrition newsletters.",
+      "Constructed dining etiquette pedagogical lesson plans for kindergarten educators."
+    ],
+    "outcomes": [
+      "Documented formal 'Supervision Inspection Reports' and customized corrective guidebooks.",
+      "Implemented color-coded waterproof indicator stickers for cutting boards to eliminate cross-contamination.",
+      "Received an 'A+' evaluation and commendation as an outstanding intern from the center director."
+    ],
+    "learnings": "Established the professional philosophy of an empathetic hygiene consultant who collaborates with on-site staff to co-create sustainable sanitary standards."
+  },
+  {
+    "id": "hr-ml-analytics-project-2026",
+    "year": 2026,
+    "title": "Machine Learning HR Analytics & Executive Decision-Making Project",
+    "titleEn": "Machine Learning HR Analytics & Executive Decision-Making Project",
+    "category": "Academic Project",
+    "period": "2026.09 - 2026.10",
+    "organization": "Hallym University Interdisciplinary Analytics",
+    "role": "Solo Data Analyst & Executive Memo Author",
+    "summary": "Trained Python scikit-learn classification algorithms to pinpoint primary promotion determinants and synthesized algorithmic outputs into a 1-page C-suite Executive Summary.",
+    "purpose": "Integrate data science workflows with nutritional background to construct robust quantitative problem-solving pipelines.",
+    "tasks": [
+      "Built automated data cleaning and imputation pipelines for structured HR records.",
+      "Trained Random Forest and Gradient Boosting classifiers and extracted feature importance scores.",
+      "Authored a concise 1-page executive decision memorandum translating technical results into policy guidance."
+    ],
+    "outcomes": [
+      "Developed a modular, reproducible Python ML analysis script (`machine_learning_analysis.py`).",
+      "Demonstrated data-driven executive communication skills bridging technical figures with strategic insights."
+    ],
+    "learnings": "Cultivated data storytelling skills—moving beyond mere code execution to conveying the strategic organizational impact of analytical findings."
+  },
+  {
+    "id": "hospital-financial-research-2026",
+    "year": 2026,
+    "title": "Empirical Healthcare Quality Investment Study in 47 Korean Tertiary Hospitals",
+    "titleEn": "Empirical Healthcare Quality Investment Study in 47 Korean Tertiary Hospitals",
+    "category": "Academic Project",
+    "period": "2026.03 - 2026.06",
+    "organization": "Healthcare Management Analytics Research Group",
+    "role": "Quantitative Analyst & Co-Researcher",
+    "summary": "Investigated the empirical impact of R&D and clinical training expenditures on operating margins across 47 tertiary hospitals using SPSS multiple linear regression.",
+    "purpose": "Statistically assess the short-term tradeoff between qualitative healthcare investments and hospital operating profitability.",
+    "tasks": [
+      "Compiled audited financial disclosures from 47 hospitals into normalized financial ratios.",
+      "Executed Pearson correlation, multicollinearity diagnostics (VIF), and stepwise multiple regressions in SPSS.",
+      "Authored the thesis abstract and discussion sections and presented the slide deck."
+    ],
+    "outcomes": [
+      "Produced a peer-level empirical research paper with robust statistical validity.",
+      "Awarded top presentation honors in the Healthcare Analytics program."
+    ],
+    "learnings": "Gained a macro-level perspective on balancing public health quality with financial sustainability in large institutions."
+  },
+  {
+    "id": "baemin-csr-research-2026",
+    "year": 2026,
+    "title": "Delivery Platform ESG & Supply Chain Safety Net Research Seminar",
+    "titleEn": "Delivery Platform ESG & Supply Chain Safety Net Research Seminar",
+    "category": "Research Seminar",
+    "period": "2026.03 - 2026.06",
+    "organization": "Business & Society Interdisciplinary Colloquium",
+    "role": "Supply Chain CSR Researcher & Presenter",
+    "summary": "Analyzed sustainable governance at Woowa Brothers (Baemin) and proposed institutional safety nets for gig-economy delivery riders and small merchants.",
+    "purpose": "Academic exploration of shared value creation and corporate responsibility amidst rapid digital platform expansion.",
+    "tasks": [
+      "Reviewed domestic and global ESG precedents and delivery platform sustainability reports.",
+      "Evaluated insurance inclusion programs and safety training impacts of Baemin Rider School.",
+      "Led seminar presentations in a multidisciplinary team."
+    ],
+    "outcomes": [
+      "Delivered a 35-slide master research presentation on platform supply chain CSR.",
+      "Extracted key governance insights regarding food delivery and logistics ecosystems."
+    ],
+    "learnings": "Broadened my view from food consumption to the welfare of the entire logistics supply chain sustaining modern food systems."
+  },
+  {
+    "id": "chrono-nutrition-dash-2025",
+    "year": 2025,
+    "title": "Chrono-Nutritional DASH-T Healthcare Meal Kit Service Development",
+    "titleEn": "Chrono-Nutritional DASH-T Healthcare Meal Kit Service Development",
+    "category": "Major Research",
+    "period": "2025.09 - 2025.12",
+    "organization": "Clinical Nutrition Student Research Group",
+    "role": "Dietary Design Lead",
+    "summary": "Designed 'DASH-T', an innovative meal kit subscription service combining the clinically proven DASH diet with time-restricted feeding for hypertensive single-person households.",
+    "purpose": "Develop an accessible functional medifood model addressing modern lifestyle barriers and clinical hypertension management.",
+    "tasks": [
+      "Formulated theoretical models on RAAS suppression via circadian feeding schedules.",
+      "Engineered 3-stage daily low-sodium, high-mineral meal kit menus.",
+      "Formulated the subscription business model and service proposal."
+    ],
+    "outcomes": [
+      "Delivered a comprehensive clinical meal kit service plan combining scientific rigor and market viability.",
+      "Acquired specialized skills in functional medifood and dietary service planning."
+    ],
+    "learnings": "Experienced the tangible process of transforming academic nutritional theories into commercial, consumable food products."
+  },
+  {
+    "id": "foodtech-seminar-2024",
+    "year": 2024,
+    "title": "Global FoodTech Trends & Food Value Chain Innovation Seminar",
+    "titleEn": "Global FoodTech Trends & Food Value Chain Innovation Seminar",
+    "category": "Academic Seminar",
+    "period": "2024.10 - 2024.12",
+    "organization": "Foodservice Management Colloquium",
+    "role": "Value Chain Technology Analyst",
+    "summary": "Presented an in-depth survey of how artificial intelligence, robotics, and alternative proteins are restructuring global food supply chains and culinary labor.",
+    "purpose": "Explore emerging technological intersections and prepare for next-generation competencies required in food science.",
+    "tasks": [
+      "Benchmarked technological readiness across logistics, retail, and commercial kitchens.",
+      "Tracked culinary labor force dynamics following smart kitchen and robotic adoption.",
+      "Designed the presentation deck and facilitated the audience Q&A session."
+    ],
+    "outcomes": [
+      "Synthesized an integrated FoodTech value chain conceptual model.",
+      "Established an academic roadmap uniting nutritional expertise with smart technologies."
+    ],
+    "learnings": "Recognized that the future of food science lies at the intersection of nutrition and modern technology."
+  },
+  {
+    "id": "culinary-science-lab-2023",
+    "year": 2023,
+    "title": "Physicochemical Principles & Sensory Evaluation across 30 Korean Culinary Experiments",
+    "titleEn": "Physicochemical Principles & Sensory Evaluation across 30 Korean Culinary Experiments",
+    "category": "Laboratory Practicum",
+    "period": "2023.03 - 2023.12",
+    "organization": "Hallym University Culinary Science Laboratory",
+    "role": "Experimenter & Laboratory Author",
+    "summary": "Conducted 30+ standardized Korean culinary experiments, systematically analyzing protein denaturation, starch gelatinization, and sensory profiles.",
+    "purpose": "Empirically investigate the physicochemical mechanisms governing food preparation and master standardized quality evaluation.",
+    "tasks": [
+      "Controlled precise weights, temperatures, salting times, and cooking durations.",
+      "Conducted sensory evaluations using structured rubrics (color, aroma, texture, taste).",
+      "Authored 32 scientific laboratory reports detailing causality and variance."
+    ],
+    "outcomes": [
+      "Constructed an extensive empirical Korean culinary database.",
+      "Mastered foundational culinary science principles and standardized testing procedures."
+    ],
+    "learnings": "Discovered that exceptional culinary quality and food safety stem from rigorous scientific principles and measurement."
+  }
+]

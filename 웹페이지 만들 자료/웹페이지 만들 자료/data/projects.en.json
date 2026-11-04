@@ -1,0 +1,574 @@
+[
+  {
+    "id": "baemin-csr-supply-chain",
+    "category": "planning-research",
+    "featured": true,
+    "title": "Woowa Brothers (Baemin) CSR Analysis & Platform Supply Chain Safety Net Study",
+    "subtitle": "Analyzing Stakeholder Shared Value Ecosystems and Labor Safety Net Models in the Platform Economy",
+    "summary": "An in-depth ESG study based on Woowa Brothers' 2025 Value Management Report and academic literature, examining the five core CSR pillars of delivery platforms and institutional safety nets for vulnerable partners (riders, local merchants).",
+    "period": "2026.03 - 2026.06",
+    "year": 2026,
+    "teamType": "Team Project (4-member interdisciplinary team)",
+    "role": "Lead Researcher for Supply Chain CSR & Platform Labor Safety Nets (Formulating traditional vs. platform supply chain models, analyzing industrial injury/employment insurance blind spots, evaluating Baemin Rider School outcomes, and designing final presentation decks).",
+    "thumbnail": "assets/images/projects/baemin-csr-preview.png",
+    "icon": "handshake",
+    "tags": ["ESG/CSR", "Supply Chain", "Stakeholder Capitalism", "Policy Analysis"],
+    "overview": "Investigating the corporate social responsibility of Woowa Brothers as it evolves into a major digital infrastructure, identifying mechanisms that foster sustainable shared value across merchants, riders, and local communities.",
+    "objectives": [
+      "Elucidate the necessity of multi-stakeholder CSR as platform companies expand societal influence.",
+      "Compare risk management architectures between traditional linear supply chains and organic platform ecosystems.",
+      "Evaluate the efficacy of safety nets for gig-economy riders and mutual growth funds for independent restaurateurs.",
+      "Propose a virtuous business cycle where stakeholder empowerment translates directly into sustainable core competitiveness."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Corporate Review & ESG Framework Structuring",
+        "desc": "Examined the 2025 Baemin Story Value Report and academic literature to structure the 5 pillars: Merchant Growth, Rider Support, Social Safety Nets, Baemin Green, and Organizational Culture."
+      },
+      {
+        "step": "Stage 2: Supply Chain CSR & Gig-Worker Vulnerability (Self-Led)",
+        "desc": "Quantified structural vulnerabilities (<30% insurance coverage among platform workers) and assessed the industry-first mandatory insurance initiative and Baemin Rider School."
+      },
+      {
+        "step": "Stage 3: Stakeholder Impact & Structural Limitations",
+        "desc": "Analyzed funds and initiatives (e.g., KRW 20B Merchant Care Fund, 100K Vacation Meal Kits, Milk Welfare Campaign) alongside controversies regarding heatwave delivery missions."
+      },
+      {
+        "step": "Stage 4: Sustainable Platform Governance Synthesis",
+        "desc": "Constructed a 'Win-Win Cycle' business framework demonstrating that social support serves as strategic brand equity rather than a mere cost burden."
+      }
+    ],
+    "competenciesTools": [
+      "Corporate Sustainability & Supply Chain Governance",
+      "Stakeholder Capitalism Analytical Frameworks",
+      "Academic & Public Statistics Meta-Analysis",
+      "Presentation Storyboarding & Infographic Visualization"
+    ],
+    "keyResults": [
+      "Built a novel comparative paradigm contrasting traditional linear vs. organic platform supply chain risks.",
+      "Awarded grade 'A+' and high praise for interdisciplinary teamwork across Finance, Business, and Nutrition.",
+      "Acquired a broad macroeconomic perspective spanning foodservice logistics and digital platform sustainability."
+    ],
+    "learnings": "As a nutritional science student, I realized that true food safety extends beyond individual meals to the entire supply chain—including the kitchen staff, small merchants, and delivery riders. Bridging business strategy with food systems was a deeply transformative experience."
+  },
+  {
+    "id": "hospital-healthcare-investment",
+    "category": "data-analysis",
+    "featured": true,
+    "title": "Empirical Study on Future Healthcare Quality Investment & Financial Performance in 47 Tertiary Hospitals",
+    "subtitle": "Cross-Sectional Multiple Regression Analysis of 2024 Accounting Disclosures across 47 Korean Tertiary Hospitals",
+    "summary": "An empirical econometric investigation collecting quantitative financial statement data from all 47 national tertiary hospitals in Korea to test the impact of R&D and training expenditures on operating margins and ROA via SPSS multiple regression.",
+    "period": "2026.03 - 2026.06",
+    "year": 2026,
+    "teamType": "Team Research Project (2 members)",
+    "role": "Data collection and coding, executing Pearson correlations and multiple linear regressions in SPSS, regression diagnostics (multicollinearity VIF, residual normality), authoring abstract/discussion, and presentation design.",
+    "thumbnail": "assets/images/projects/hospital-analysis-preview.png",
+    "icon": "chart-line",
+    "tags": ["SPSS", "Multiple Regression", "Financial Analytics", "Healthcare Management"],
+    "overview": "Examining whether investments in R&D and clinical staff training by tertiary hospitals yield positive short-term operating returns in the post-COVID restructured healthcare reimbursement and labor cost environment.",
+    "objectives": [
+      "Extract 6 future healthcare quality investment ratios and financial performance metrics from 2024 financial audits of 47 hospitals.",
+      "Assess correlation patterns between clinical quality expenditures and operating profitability.",
+      "Validate the independent predictive power of R&D and training expenditures on medical operating margins via SPSS.",
+      "Provide hospital leadership with strategic insights balancing qualitative clinical investments with financial sustainability."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Hypotheses Formulation & Literature Review",
+        "desc": "Examined panel data precedents and hypothesized that single-year cross-sectional post-pandemic data would reveal cost lag effects."
+      },
+      {
+        "step": "Stage 2: Financial Data Extraction & Normalization",
+        "desc": "Parsed medical revenues, operating income, research funds, training expenses, and total assets from public disclosure portals."
+      },
+      {
+        "step": "Stage 3: Statistical Modeling in SPSS (Self-Led)",
+        "desc": "Conducted descriptive statistics, Pearson bivariate correlation, multicollinearity diagnostics (VIF < 2.0), and stepwise multiple linear regression."
+      },
+      {
+        "step": "Stage 4: Thesis Writing & Executive Slide Completion",
+        "desc": "Interpreted the immediate cost absorption of education costs and research time lags within the institutional healthcare framework."
+      }
+    ],
+    "competenciesTools": [
+      "SPSS Statistics Suite",
+      "Multivariate Linear Regression & Hypothesis Testing",
+      "Financial Ratio Computation & Data Normalization",
+      "Academic Thesis Composition & Structured Reporting"
+    ],
+    "keyResults": [
+      "Empirically demonstrated that clinical training and R&D exhibit short-term cost-side pressures rather than immediate profitability boosts.",
+      "Ensured robust statistical validity with high model fit significance and zero multicollinearity concerns.",
+      "Selected as the top research presentation in the Healthcare Management Analytics program."
+    ],
+    "learnings": "Acquired hands-on mastery in processing real-world quantitative figures. Learned to look beyond expected hypotheses to objectively interpret counter-intuitive findings through the structural realities of industry dynamics."
+  },
+  {
+    "id": "ml-hr-promotion-analysis",
+    "category": "data-analysis",
+    "featured": true,
+    "title": "Machine Learning Classification for HR Promotion Factors & Executive Briefing",
+    "subtitle": "Supervised Machine Learning Model Development & Feature Importance Analysis via Random Forest and Gradient Boosting",
+    "summary": "A machine learning predictive modeling project utilizing enterprise HR employee records in Python scikit-learn to determine the key drivers behind employee promotions and formulating a 1-page executive summary for leadership.",
+    "period": "2026.09 - 2026.10",
+    "year": 2026,
+    "teamType": "Individual Analytics Project",
+    "role": "End-to-end analytical pipeline design, Python ML programming (Logistic Regression, Random Forest, Gradient Boosting), confusion matrix evaluation, feature importance derivation, and executive decision memo writing.",
+    "thumbnail": "assets/images/projects/ml-promotion-preview.png",
+    "icon": "cpu",
+    "tags": ["Python", "scikit-learn", "Machine Learning", "HR Analytics"],
+    "overview": "Investigating how performance ratings, years of experience, cognitive scores (IQ), training score improvement, tech competencies, and interpersonal scores quantitatively influence employee promotion decisions.",
+    "objectives": [
+      "Construct and compare supervised classification models on structured personnel datasets.",
+      "Quantify feature importance metrics to pinpoint primary determinants of career advancement.",
+      "Validate whether educational score improvements statistically correlate with promotion outcomes.",
+      "Translate complex machine learning findings into an actionable, 1-page Executive Summary for decision-makers."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Data Preprocessing & Encoding",
+        "desc": "Handled missing records, performed one-hot encoding for categorical variables (Gender, Education, Region), and applied feature scaling."
+      },
+      {
+        "step": "Stage 2: Model Training & Benchmark Comparison",
+        "desc": "Trained Logistic Regression, Random Forest, and Gradient Boosting Classifiers, evaluating accuracy, precision, recall, and F1-score."
+      },
+      {
+        "step": "Stage 3: Feature Importance Extraction",
+        "desc": "Demonstrated that Experience and Performance accounted for 65% (RF) to 88% (GB) of model split decisions, whereas training score gains showed negligible variance."
+      },
+      {
+        "step": "Stage 4: Executive Briefing & Policy Recommendations",
+        "desc": "Authored an executive report recommending the model as a preliminary screening tool (~70% accuracy) while emphasizing human judgment for final audits."
+      }
+    ],
+    "competenciesTools": [
+      "Python 3 (scikit-learn, pandas, numpy)",
+      "Ensemble Learning & Classification Algorithms",
+      "Model Performance Metrics & Confusion Matrices",
+      "Executive Decision Memo Composition"
+    ],
+    "keyResults": [
+      "Empirically validated that tenure and performance govern promotion decisions while training gains show negligible impact.",
+      "Engineered an automated, reproducible Python analytical script (`machine_learning_analysis.py`).",
+      "Delivered a polished executive memorandum bridging data science with HR management strategy."
+    ],
+    "learnings": "Recognized that coding and machine learning are versatile instruments for deciphering complex phenomena. Gained confidence to apply these data techniques to food safety hazard prediction and consumer preference modeling in the future."
+  },
+  {
+    "id": "dash-t-hypertension-meal-kit",
+    "category": "food-nutrition",
+    "featured": true,
+    "title": "Chrono-Nutritional DASH-T Meal Kit Subscription Service for Hypertension Management",
+    "subtitle": "Synergizing the DASH Dietary Protocol with Time-Restricted Feeding for Single-Person Households",
+    "summary": "Addressing the rising prevalence of hypertension in adults, this project designed 'DASH-T'—a customized healthy meal kit subscription service combining the clinically proven DASH diet with circadian time-restricted feeding for busy individuals.",
+    "period": "2025.09 - 2025.12",
+    "year": 2025,
+    "teamType": "Team Project (Food Science & Nutrition)",
+    "role": "Pathophysiological analysis of hypertension, establishing the theoretical framework of time-restricted feeding on RAAS suppression, designing 3-stage daily low-sodium/high-mineral menu formulas, and business model formulation.",
+    "thumbnail": "assets/images/projects/dasht-preview.png",
+    "icon": "heart-pulse",
+    "tags": ["DASH Diet", "Chrono-Nutrition", "Personalized Meal Kit", "Clinical Nutrition"],
+    "overview": "Given that hypertension control rates remain around 50%, this project addresses the barriers single-person households face in meal preparation by delivering scientifically optimized, convenient daily meal kits.",
+    "objectives": [
+      "Pinpoint primary nutritional imbalances: excess sodium, deficient potassium, magnesium, and dietary fiber.",
+      "Incorporate circadian chrono-nutrition to suppress renin-angiotensin-aldosterone system (RAAS) activation and normalize renal clocks.",
+      "Overcome meal prep burdens of single-person households through ready-to-cook healthy meal kits.",
+      "Formulate breakfast, lunch, and dinner menu prototypes tailored to diurnal metabolic activity."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Disease Pathology & Dietary Pain Points",
+        "desc": "Examined KNHANES statistics and clinical literature regarding hypertension prevalence in 30+ adults and adherence failures."
+      },
+      {
+        "step": "Stage 2: Chrono-Nutrition Convergence",
+        "desc": "Integrated time-restricted feeding concepts with the DASH diet to suppress nocturnal hypertension ('non-dipping'), creating the 'DASH-T' concept."
+      },
+      {
+        "step": "Stage 3: Menu Prototyping & Nutrient Computation",
+        "desc": "Breakfast: Low-sodium scrambled eggs (high potassium/fiber); Lunch: Brown rice with lentils & chicken breast steak; Dinner: Quinoa konjac rice with mushroom tofu steak."
+      },
+      {
+        "step": "Stage 4: Subscription Framework & Outcome Modeling",
+        "desc": "Structured regular delivery logistics, mobile biomarker sync capabilities, and projected blood pressure reduction outcomes."
+      }
+    ],
+    "competenciesTools": [
+      "Clinical Nutrition & Chronic Disease Dietetics",
+      "Nutrient Database Analysis & Menu Formulation",
+      "HMR & Functional Medifood Market Research",
+      "New Healthcare Food Product Service Planning"
+    ],
+    "keyResults": [
+      "Developed an innovative clinical meal kit prototype integrating circadian biology with nutritional therapy.",
+      "Solved practical adoption hurdles (prep time, complex recipes) for single-person households.",
+      "Received outstanding praise from faculty for theoretical rigor and commercial feasibility."
+    ],
+    "learnings": "I realized that nutritional principles only generate real-world health impact when packaged into accessible, convenient daily products. This served as a pivotal milestone confirming my passion for functional food development."
+  },
+  {
+    "id": "safety-education-cardnews",
+    "category": "design-content",
+    "featured": false,
+    "title": "Industrial Accident Prevention Card News for Kitchen Staff in Institutional Foodservice",
+    "subtitle": "Visualized Health & Safety Educational Infographics for the Center for Children and Social Welfare Foodservice",
+    "summary": "As part of my dietitian field internship, I created an 8-slide educational card news series illuminating rising kitchen occupational injuries and translating critical accident prevention protocols into intuitive, friendly visual guidelines.",
+    "period": "2025.06 - 2025.07",
+    "year": 2025,
+    "teamType": "Individual Internship Project",
+    "role": "Occupational injury statistics research, distilling core prevention protocols across 4 major accidents (burns, slips, cuts, musculoskeletal), and sole graphic design/copywriting for the 8-slide visual deck.",
+    "thumbnail": "assets/images/projects/safety-cardnews-preview.png",
+    "icon": "shield-check",
+    "tags": ["Occupational Safety", "Card News", "Kitchen Hygiene", "Visual Design"],
+    "overview": "Kitchen worker injuries surged 2.5-fold over 3 years. This visual guide presents concise, actionable steps tailored for busy cooks without relying on dense legal jargon.",
+    "objectives": [
+      "Raise awareness of escalating kitchen worker occupational accident rates (>1,700 incidents annually).",
+      "Formulate prevention guidelines for the 4 most frequent accidents: burns, slips, lacerations, and musculoskeletal strain.",
+      "Deliver crystal-clear behavioral rules in place of complex administrative manuals.",
+      "Produce a versatile, high-resolution infographic series suitable for both mobile viewing and on-site bulletin boards."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Statistical & Hazard Assessment",
+        "desc": "Analyzed KOSHA and Ministry of Employment and Labor data on commercial kitchen injuries."
+      },
+      {
+        "step": "Stage 2: Storyline Structuring & Layout Drafting",
+        "desc": "Built an 8-frame progression: Incident Alert → Hazard Types → 4 Preventive Rule Slides → Encouragement & Summary."
+      },
+      {
+        "step": "Stage 3: Graphic Design & Legibility Tuning",
+        "desc": "Combined clean notepad backgrounds, safety mascot illustrations, and bold typography for effortless comprehension."
+      },
+      {
+        "step": "Stage 4: On-Site Deployment & Feedback",
+        "desc": "Distributed during sanitation inspection rounds in Gwangjin-gu foodservice centers with enthusiastic receptivity."
+      }
+    ],
+    "competenciesTools": [
+      "Institutional Foodservice Safety Regulations",
+      "Infographic Planning & Editorial Layout",
+      "Empathetic Copywriting & Information Architecture",
+      "Visual Design & Communication Assets"
+    ],
+    "keyResults": [
+      "Produced a complete, production-ready 8-slide occupational safety educational series.",
+      "Officially adopted as an exemplary educational asset by the Gwangjin-gu Foodservice Management Center.",
+      "Demonstrated ability to translate complex safety guidelines into engaging visual assets."
+    ],
+    "learnings": "Recognized that even the best safety protocols remain ineffective unless workers can easily absorb and recall them in the rush of daily service. Empathy in design is essential for workplace safety."
+  },
+  {
+    "id": "dietitian-hygiene-supervision",
+    "category": "food-nutrition",
+    "featured": false,
+    "title": "On-Site Sanitation Supervision & Hygiene Improvement Consulting for Community Child Centers",
+    "subtitle": "Sanitary Inspection, ATP Microbial Testing, and Action Plan Documentation in Gwangjin-gu",
+    "summary": "An on-site dietitian practicum conducting rigorous sanitation inspections across community childcare kitchens, measuring ATP bio-contamination, and delivering practical corrective guidelines through formal reports.",
+    "period": "2025.06 - 2025.07",
+    "year": 2025,
+    "teamType": "Field Practicum Project",
+    "role": "Checklist evaluation of kitchen sanitation, operating ATP bioluminescence meters on cookware, educating kitchen workers on personal protective equipment and cross-contamination, and authoring formal consulting reports.",
+    "thumbnail": "assets/images/projects/hygiene-supervision-preview.png",
+    "icon": "clipboard-check",
+    "tags": ["Food Sanitation", "ATP Testing", "Cross-Contamination", "On-site Supervision"],
+    "overview": "Auditing sanitation conditions in childcare kitchens serving vulnerable children, offering feasible improvement solutions (such as color-coded waterproof cutting board indicators and entryway mask dispensers).",
+    "objectives": [
+      "Audit institutional foodservice compliance with the Food Sanitation Act and center standards.",
+      "Quantitatively verify utensil cleaning and disinfection efficacy using ATP swab testing.",
+      "Propose pragmatic, cost-effective interventions that kitchen workers can immediately sustain.",
+      "Document formal On-site Supervision Reports and tailored corrective commentary."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Checklist Preparation & Standards Review",
+        "desc": "Reviewed 20+ auditing criteria covering ingredient storage, personal hygiene, process sanitization, and facilities."
+      },
+      {
+        "step": "Stage 2: On-Site Inspection & ATP Swabbing",
+        "desc": "Sampled knives, boards, and dishware via ATP bioluminescence and inspected worker hygiene adherence."
+      },
+      {
+        "step": "Stage 3: Deficiencies & Commendations Analysis",
+        "desc": "Commended: Prompt leftover disposal and tableware sanitization; Identified: Unlabeled ingredient bags, unmasked cooking, and shared boards."
+      },
+      {
+        "step": "Stage 4: Corrective Guidebook Delivery",
+        "desc": "Formulated actionable guides including clear-binder label storage and color-coded waterproof stickers for fish, meat, and vegetables."
+      }
+    ],
+    "competenciesTools": [
+      "Institutional Foodservice Hygiene Audit Protocols",
+      "ATP Bioluminescence Rapid Testing Operations",
+      "Food Labeling & Cross-Contamination Prevention Standards",
+      "Technical Advisory & Field Documentation"
+    ],
+    "keyResults": [
+      "Verified sanitized tableware benchmarks and implemented instant corrective actions for food prep safety.",
+      "On-site adoption of color-coded waterproof cutting board stickers to eliminate cross-contamination.",
+      "Demonstrated practical readiness for administrative and operational dietitian responsibilities."
+    ],
+    "learnings": "Understood that an auditor should not merely point out faults, but act as a supportive consultant who understands kitchen workflow constraints and co-creates sustainable hygiene habits."
+  },
+  {
+    "id": "aspartame-scientific-evidence",
+    "category": "food-nutrition",
+    "featured": false,
+    "title": "Public Perception vs. Empirical Scientific Evidence on Aspartame: A Comparative Study",
+    "subtitle": "Navigating Zero-Sugar Trends, Artificial Sweetener Controversies, and Global Health Agency Assessments",
+    "summary": "An analytical food hygiene paper dissecting the divergence between public health anxieties surrounding aspartame in zero-calorie beverages and the empirical toxicological assessments (IARC, JECFA, FDA) regarding Acceptable Daily Intake (ADI).",
+    "period": "2025.04 - 2025.05",
+    "year": 2025,
+    "teamType": "Individual Academic Project",
+    "role": "Reviewing international public health reports, analyzing online sentiment frames, calculating quantitative beverage intake equivalents against ADI benchmarks, and formulating evidence-based consumer advice.",
+    "thumbnail": "assets/images/projects/aspartame-preview.png",
+    "icon": "microscope",
+    "tags": ["Food Hygiene", "Aspartame", "Food Additives", "Scientific Fact-Checking"],
+    "overview": "Examining a quintessential food safety dispute where sensationalist media coverage eclipses scientific consensus, establishing an objective reference guide for rational consumer food choices.",
+    "objectives": [
+      "Identify common panic narratives surrounding aspartame across news articles and online forums.",
+      "Clarify the scientific definition of IARC's Group 2B ('possibly carcinogenic to humans') hazard classification.",
+      "Convert JECFA's ADI threshold (40 mg/kg bw/day) into relatable dietary volumes for adults and children.",
+      "Establish balanced communication guidelines countering chemophobia with empirical data."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Sentiment & Media Narrative Analysis",
+        "desc": "Mapped the trajectory of fear-based headlines following the surge in zero-sugar soft drink popularity."
+      },
+      {
+        "step": "Stage 2: Global Health Agency Benchmark Review",
+        "desc": "Examined the distinction between IARC's hazard identification and JECFA's risk assessment upholding the current ADI."
+      },
+      {
+        "step": "Stage 3: Quantitative Intake Modeling",
+        "desc": "Calculated that an average 60kg adult would need to consume 30 to 55 cans (250ml) of diet soda daily to exceed safe thresholds."
+      },
+      {
+        "step": "Stage 4: Consumer Report & Guidelines",
+        "desc": "Confirmed safety for the general populace (excluding PKU patients) and provided label-reading best practices."
+      }
+    ],
+    "competenciesTools": [
+      "Food Hygiene & Food Additive Regulatory Standards",
+      "Toxicological Risk Assessment vs. Hazard Identification",
+      "Acceptable Daily Intake (ADI) Quantitative Computation",
+      "Scientific Fact-Checking & Clear Health Communication"
+    ],
+    "keyResults": [
+      "Authored a well-received academic paper reconciling public misunderstandings with empirical toxicological evidence.",
+      "Mastered a balanced Risk-Benefit analysis framework for modern food additive scrutiny.",
+      "Achieved a perfect score in Food Hygiene coursework."
+    ],
+    "learnings": "Learned that the only antidote to public fear is transparent, accessible scientific truth. Gained invaluable clarity on how food safety professionals must communicate objectively with consumers."
+  },
+  {
+    "id": "community-childhood-obesity",
+    "category": "food-nutrition",
+    "featured": false,
+    "title": "Childhood Obesity & Dietary Habit Improvement Program for Gangwon Elementary Schools",
+    "subtitle": "Community-Based Nutritional Intervention Program Utilizing KNHANES and National School Health Surveys",
+    "summary": "To address peak regional childhood obesity rates in Gangwon Province, this project analyzed student health statistics, drafted mixed-method survey plans, and engineered a school-home collaborative nutritional intervention program.",
+    "period": "2025.03 - 2025.06",
+    "year": 2025,
+    "teamType": "Team Project (4 members)",
+    "role": "Community health problem diagnosis, charting student health examination datasets (fast food consumption, sugary drink intake), designing quantitative survey and qualitative interview probes, and slide design.",
+    "thumbnail": "assets/images/projects/childhood-obesity-preview.png",
+    "icon": "users",
+    "tags": ["Community Nutrition", "Childhood Obesity", "Public Health", "Intervention Design"],
+    "overview": "Targeting elementary students in Chuncheon, Gangwon, facing heightened pediatric obesity risks from fast food and sugar, this initiative designed an experiential education and dietary counseling program model.",
+    "objectives": [
+      "Diagnose regional child obesity rates and nutritional deficiencies using national datasets.",
+      "Investigate contributing factors: 77.6% weekly fast food rate and 84.9% weekly sugary drink consumption.",
+      "Design quantitative questionnaires and in-depth qualitative interview methodologies for 10 schoolchildren.",
+      "Establish an integrated support network uniting school meals, arts-based food education, and parent counseling."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Regional Health Problem Diagnosis",
+        "desc": "Cross-referenced Ministry of Education and KDCA statistics, revealing pronounced fruit/vegetable deficits and excess fat intake."
+      },
+      {
+        "step": "Stage 2: Mixed-Method Data Collection Architecture",
+        "desc": "Formulated structured frequency questionnaires (quantitative) paired with in-depth interview probes (qualitative)."
+      },
+      {
+        "step": "Stage 3: Educational Intervention Design",
+        "desc": "Created interactive nutrition classes combining art and music, bi-annual parental counseling, and balanced school lunch menus."
+      },
+      {
+        "step": "Stage 4: Program Evaluation & Implementation Roadmap",
+        "desc": "Proposed multi-year milestone tracking in coordination with local educational offices and public health centers."
+      }
+    ],
+    "competenciesTools": [
+      "Community Nutrition Program Planning Models",
+      "Public Health Big Data Analysis & Visualization",
+      "Mixed Methods Research Design (Surveys + In-Depth Interviews)",
+      "Pediatric Nutrition Curriculum Formulation"
+    ],
+    "keyResults": [
+      "Completed a persuasive regional child health intervention proposal grounded in official public health statistics.",
+      "Designed creative, participatory nutritional curriculums replacing one-way didactic lectures.",
+      "Cultivated a macro-level public health mindset for community nutritional well-being."
+    ],
+    "learnings": "Recognized that dietary issues cannot be resolved by personal willpower alone; they require supportive community, school, and home environments. Reinforced my passion for public preventive nutrition."
+  },
+  {
+    "id": "foodtech-industry-trends",
+    "category": "planning-research",
+    "featured": false,
+    "title": "Global FoodTech Ecosystem and Food Value Chain Innovation Analysis",
+    "subtitle": "Assessing the Impact of AI, Big Data, and Robotics on Production, Logistics, and Foodservice",
+    "summary": "An industry research project defining FoodTech and investigating how artificial intelligence, big data, robotics, and alternative proteins are reshaping traditional food systems and future workforce requirements.",
+    "period": "2024.10 - 2024.12",
+    "year": 2024,
+    "teamType": "Team Project (4 members)",
+    "role": "Researching technological drivers, analyzing technology readiness levels and employment shifts across the value chain, and authoring the master presentation slide deck.",
+    "thumbnail": "assets/images/projects/foodtech-preview-1.png",
+    "icon": "lightbulb",
+    "tags": ["FoodTech", "Alternative Protein", "Food Value Chain", "Smart Kitchen"],
+    "overview": "Examining the rapid emergence of FoodTech driven by contactless retail, alternative proteins, and automation, and exploring structural shifts in food employment and business models.",
+    "objectives": [
+      "Define FoodTech as the convergence of Food and Technology and outline its ecosystem architecture.",
+      "Benchmark technological maturity across alternative foods, distribution logistics, and culinary service.",
+      "Assess economic productivity and employment shifts associated with AI and collaborative robotic arms.",
+      "Identify competencies required for future food science and foodservice management graduates."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Definition & Catalysts",
+        "desc": "Analyzed cost reductions from IT advancement, post-pandemic contactless dining trends, and sustainability imperatives."
+      },
+      {
+        "step": "Stage 2: Value Chain Maturity Mapping",
+        "desc": "Evaluated Korean technology levels in retail logistics vs. production, analyzing a decade of culinary employment shifts."
+      },
+      {
+        "step": "Stage 3: Commercial Use Case Case Studies",
+        "desc": "Examined autonomous cooking robots, AI food waste optical sensors, and 3D food printers in field settings."
+      },
+      {
+        "step": "Stage 4: Future Vision Synthesis",
+        "desc": "Emphasized that even amidst high automation, the core human dietitian's role in verifying safety and nutritional balance remains irreplaceable."
+      }
+    ],
+    "competenciesTools": [
+      "Foodservice Management & Industry Forecasting",
+      "Value Chain Technological Assessment Frameworks",
+      "Labor & Economic Statistics Synthesis",
+      "Presentation Architecture & Delivery"
+    ],
+    "keyResults": [
+      "Delivered a comprehensive slide presentation and research report surveying the complete FoodTech value chain.",
+      "Identified critical intersections between food science and technological innovation early in my academic career.",
+      "Achieved high team cohesion and presentation commendation."
+    ],
+    "learnings": "Witnessed firsthand that the food industry is entering a monumental transformation. Confirmed my ambition to synthesize nutritional science with technological and business acumen."
+  },
+  {
+    "id": "genai-semiconductor-invest-report",
+    "category": "design-content",
+    "featured": false,
+    "title": "Generative AI-Driven Semiconductor Investment Analysis & Multimedia Briefing",
+    "subtitle": "Analyzing SK Hynix HBM Market Leadership & Crafting Multimedia Deliverables via Prompt Engineering",
+    "summary": "An AI Smart Work project testing advanced prompt engineering to dissect SK Hynix's Q3 2026 earnings and HBM4 roadmap, producing an investment memo, presentation slides, AI-generated images, and video assets.",
+    "period": "2026.09 - 2026.10",
+    "year": 2026,
+    "teamType": "Individual Academic Project",
+    "role": "Financial data analysis of semiconductor markets, generating and fact-checking report narratives with generative AI, designing slide decks, and producing AI visual assets.",
+    "thumbnail": "assets/images/projects/ai-semiconductor-preview.png",
+    "icon": "sparkles",
+    "tags": ["Generative AI", "Prompt Engineering", "Equity Research", "Multimedia Content"],
+    "overview": "Demonstrating how non-specialists can conduct rigorous research into high-tech capital markets using generative AI workflows and rapidly produce professional multi-format deliverables.",
+    "objectives": [
+      "Test real-world productivity boundaries and hallucination risks of text, image, and video generative AI tools.",
+      "Analyze complex financial data including quarterly operating profit, 79.7% margin, and HBM supply dynamics.",
+      "Create intuitive, metaphor-based slides ('DRAM as a desk, HBM as high-performance speed, NAND as a drawer').",
+      "Ensure empirical veracity through rigorous cross-checking of AI-generated content against audited earnings disclosures."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Prompt Architecture & Data Mining",
+        "desc": "Constructed Chain-of-Thought prompts based on audited earnings releases to generate initial report drafts."
+      },
+      {
+        "step": "Stage 2: Empirical Fact-Checking",
+        "desc": "Conducted 1:1 numerical cross-checks verifying revenue, operating margins, and shareholder return commitments."
+      },
+      {
+        "step": "Stage 3: Slide Design & Visual Asset Generation",
+        "desc": "Designed clear infographic slides using analogies and generated supporting AI concept imagery."
+      },
+      {
+        "step": "Stage 4: Video Synthesis & Final Submission",
+        "desc": "Integrated generative video tools into an investment briefing clip, securing top marks in the AI coursework."
+      }
+    ],
+    "competenciesTools": [
+      "Generative AI Workflows (LLMs, Diffusion Models)",
+      "Prompt Engineering (Few-shot, CoT)",
+      "Financial Metrics & Equity Analysis",
+      "Multimedia Content Authoring (Text, Slides, Images, Video)"
+    ],
+    "keyResults": [
+      "Rapidly delivered an executive-grade investment report and polished slide deck.",
+      "Demonstrated proficiency in orchestrating AI as a robust content creation pipeline rather than a simple chatbot.",
+      "Achieved a perfect grade and faculty commendation."
+    ],
+    "learnings": "Understood that leveraging AI effectively relies on the human operator's clarity of thought, domain definition, and fact-checking rigor. This workflow drastically elevates my research and documentation efficiency."
+  },
+  {
+    "id": "korean-culinary-experiments",
+    "category": "food-nutrition",
+    "featured": false,
+    "title": "Physicochemical Principles & Sensory Evaluation across 30 Korean Culinary Experiments",
+    "subtitle": "Standardizing Traditional Recipes and Investigating Food Chemistry Transformations in the Lab",
+    "summary": "An intensive laboratory practicum systematically preparing 30+ Korean dishes (Gyeojachae, Neobiani, Kimchi, Tangpyeongchae) to investigate protein denaturation, starch gelatinization, heat transfer, and sensory characteristics.",
+    "period": "2023.03 - 2023.12",
+    "year": 2023,
+    "teamType": "Individual Laboratory Experiments",
+    "role": "Precision measurement and prep of raw ingredients, controlling heating temperatures and cooking durations, conducting sensory evaluations (color, texture, flavor), and authoring 30+ scientific experimental reports.",
+    "thumbnail": "assets/images/projects/cooking-exp-preview.png",
+    "icon": "utensils",
+    "tags": ["Culinary Principles", "Food Chemistry", "Sensory Evaluation", "Standardized Recipes"],
+    "overview": "Viewing culinary arts through the lens of rigorous chemistry and physics, analyzing changes in texture, pigment stability, and moisture retention across foundational Korean dishes.",
+    "objectives": [
+      "Elucidate chemical and physical mechanisms embedded in traditional Korean culinary methods.",
+      "Observe meat tenderization, vegetable osmosis/enzyme deactivation, and fish protein coagulation.",
+      "Evaluate sensory quality shifts across varied parameters (temperature, pH, salt concentration, time).",
+      "Acquire scientific methodology by documenting standardized experimental laboratory reports."
+    ],
+    "process": [
+      {
+        "step": "Stage 1: Scientific Hypothesis & Theory",
+        "desc": "Studied thermal degradation and structural properties of proteins, starches, pectins, and pigments."
+      },
+      {
+        "step": "Stage 2: Precision Laboratory Cooking",
+        "desc": "Controlled mustard fermentation temperatures, measured meat shrinkage during direct grilling, and measured vegetable dehydration curves in brining."
+      },
+      {
+        "step": "Stage 3: Sensory Analysis & Recording",
+        "desc": "Evaluated hue, aroma, tenderness, juiciness, and mouthfeel using structured sensory scoring rubrics."
+      },
+      {
+        "step": "Stage 4: Scientific Discussion & Report Synthesis",
+        "desc": "Identified sources of experimental variance and compiled 30+ comprehensive laboratory write-ups."
+      }
+    ],
+    "competenciesTools": [
+      "Culinary Principles & Food Science Lab Techniques",
+      "Sensory Evaluation Methodologies",
+      "Experimental Variable Control & Quantitative Recording",
+      "Physicochemical Food Science Reporting"
+    ],
+    "keyResults": [
+      "Compiled a comprehensive database of 30+ standardized culinary experimental research reports.",
+      "Built an unshakeable foundation uniting food science theory with hands-on culinary precision.",
+      "Earned top academic marks in Experimental Food Preparation."
+    ],
+    "learnings": "Moved beyond following recipes to scientifically comprehending 'why' specific temperatures and salting techniques are necessary. This serves as the bedrock for my future work in food processing and product quality control."
+  }
+]

@@ -1,0 +1,17 @@
+4. 영상 생성 프롬프트
+-사용한 생성형 AI: Google Flow
+-Prompt: 위의 첨부한 사진으로 영상 만들어줘. 나래이션은 한국어로 해줘. SKhynix 로고가 잘 보이도록 생성해줘
+Time	Visual & Camera	Voice-over Script	On-Screen Text
+0–1s	Fade in from navy darkness. The glowing HBM4 chip emerges against the sunset skyline. A golden flare sweeps across it.	“AI runs on memory.”	AI MEMORY
+1–2s	Push-in begins. Light glides across the SK hynix logo and chip.	“SK hynix. Record results.”	SK hynix · Q3 2026
+2–3s	Growth-chart icon pops in. Background bars surge upward.	“83.3 trillion won profit.”	KRW 83.3T Operating Profit
+3–4s	Pie-chart icon fills. The glowing arrow shoots up to the right.	“79.7 percent margin.”	79.7% Margin · All-Time High
+4–5s	Light streaks along the circuits converge on the chip. Close-up on the HBM4 label.	“Powered by HBM4.”	HBM4
+5–6s	Coin icon pops in. Golden particles burst softly around the chip.	“100 trillion won to shareholders.”	KRW 100T Shareholder Returns
+6–7s	Microchip icon pops in. Server racks light up row by row.	“Memory shortage through 2030.”	Supply Shortage Through 2030
+7–8s	Camera rises to reveal the glowing horizon. Music swells.	“The numbers speak.”	—
+8–9s	Rack focus to the HBM4 chip. The tagline appears large in gold.	“Invest wisely.”	INVEST WISELY.
+9–10s	Hold on the hero frame. Music resolves. Disclaimer fades in at the bottom.	(no voice, music tail)	For information only. Not investment advice.
+Full Voice-Over (continuous read)
+
+AI runs on memory. SK hynix. Record results. 83.3 trillion won profit. 79.7 percent margin. Powered by HBM4. 100 trillion won to shareholders. Memory shortage through 2030. The numbers speak. Invest wisely.

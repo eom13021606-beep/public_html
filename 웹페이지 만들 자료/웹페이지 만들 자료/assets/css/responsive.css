@@ -1,0 +1,133 @@
+/* Responsive Media Queries */
+
+/* Tablet & Smaller Screens (< 1024px) */
+@media (max-width: 1024px) {
+  :root {
+    --header-height: 70px;
+    --text-4xl: 2rem;
+    --text-3xl: 1.625rem;
+  }
+
+  .grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-top {
+    flex-direction: column;
+    gap: var(--space-8);
+  }
+}
+
+/* Mobile Screens (< 768px) */
+@media (max-width: 768px) {
+  :root {
+    --header-height: 64px;
+    --text-5xl: 2.25rem;
+    --text-4xl: 1.75rem;
+    --text-3xl: 1.5rem;
+    --text-2xl: 1.25rem;
+  }
+
+  .container, .container-narrow {
+    padding-left: var(--space-4);
+    padding-right: var(--space-4);
+  }
+
+  .desktop-nav {
+    display: none;
+  }
+
+  .btn-mobile-menu {
+    display: inline-flex;
+  }
+
+  .section {
+    padding-top: var(--space-12);
+    padding-bottom: var(--space-12);
+  }
+
+  .section-hero {
+    padding-top: var(--space-16);
+    padding-bottom: var(--space-12);
+  }
+
+  .hero-quote {
+    font-size: var(--text-lg);
+  }
+
+  .grid-2, .grid-3, .grid-4 {
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+  }
+
+  .timeline {
+    padding-left: var(--space-6);
+    margin-left: 0;
+  }
+
+  .timeline-year-label {
+    left: calc(-1 * var(--space-6) - 1px);
+    font-size: var(--text-lg);
+  }
+
+  .timeline-dot {
+    left: calc(-1 * var(--space-6) - 5px);
+  }
+
+  .footer-links-group {
+    flex-direction: column;
+    gap: var(--space-6);
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    gap: var(--space-4);
+    text-align: center;
+  }
+
+  .filter-tabs {
+    overflow-x: auto;
+    padding-bottom: var(--space-2);
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .contact-box {
+    padding: var(--space-6);
+  }
+
+  .detail-meta-grid {
+    grid-template-columns: 1fr;
+    padding: var(--space-4);
+  }
+}
+
+/* Small Mobile Screens (< 480px) */
+@media (max-width: 480px) {
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+  }
+
+  .search-box {
+    max-width: 100%;
+  }
+}
+
+/* Accessibility: Respect Reduced Motion Preference */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

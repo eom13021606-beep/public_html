@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>엄서현 | Seohyun Eom Portfolio</title>
+  <meta name="description" content="한림대학교 식품영양학과 엄서현(Seohyun Eom)의 개인 포트폴리오 웹사이트입니다. 식품 가공·개발, 식품 위생·안전, 데이터 분석 및 ESG 프로젝트를 소개합니다.">
+  <meta name="author" content="Seohyun Eom">
+  <meta name="keywords" content="엄서현, Seohyun Eom, 한림대학교, 식품영양학과, 식품개발, 식품위생, 영양사, 데이터분석, 포트폴리오">
+  
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="assets/css/reset.css">
+  <link rel="stylesheet" href="assets/css/variables.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+
+  <!-- Favicon / Brand Symbol -->
+  <link rel="icon" type="image/svg+xml" href="assets/images/logo/se-logo.svg">
+</head>
+<body>
+  <!-- Header Component -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="site-logo" aria-label="Seohyun Eom Home">
+        <svg viewBox="0 0 240 50" fill="none" class="se-logo-svg">
+          <g class="se-symbol" transform="translate(4, 5)">
+            <rect width="40" height="40" rx="10" fill="currentColor" fill-opacity="0.08" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M 17 16 C 14 16 12 17.5 12 19.5 C 12 22 15 22.5 17 23.5 C 19 24.5 19.5 26 19.5 27.5 C 19.5 30 16.5 31.5 13.5 31.5 C 11.5 31.5 10 30.5 9.5 29.5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+            <path d="M 23 16.5 L 29 16.5 M 23 16.5 L 23 31.5 M 23 24 L 27.5 24 M 23 31.5 L 29 31.5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          </g>
+          <g transform="translate(56, 17)">
+            <text x="0" y="10" font-family="'Pretendard', sans-serif" font-size="15" font-weight="800" letter-spacing="2.5" fill="currentColor">SEOHYUN EOM</text>
+            <text x="1" y="24" font-family="'Pretendard', sans-serif" font-size="9" font-weight="500" letter-spacing="1.2" fill="currentColor" fill-opacity="0.6">FOOD &amp; NUTRITION</text>
+          </g>
+        </svg>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav" aria-label="Main Navigation">
+        <div class="nav-links">
+          <a href="index.html" class="nav-link active" data-i18n="nav_home">Home</a>
+          <a href="about.html" class="nav-link" data-i18n="nav_about">About Me</a>
+          <a href="skills.html" class="nav-link" data-i18n="nav_skills">Skills</a>
+          <a href="projects.html" class="nav-link" data-i18n="nav_projects">Projects</a>
+          <a href="activities.html" class="nav-link" data-i18n="nav_activities">Activities</a>
+          <a href="contact.html" class="nav-link" data-i18n="nav_contact">Contact</a>
+        </div>
+
+        <div class="header-actions">
+          <button class="btn-lang-toggle" aria-label="Switch Language">EN</button>
+          <button class="btn-theme-toggle" aria-label="Switch Theme"></button>
+        </div>
+      </nav>
+
+      <!-- Mobile Hamburger Button -->
+      <button class="btn-mobile-menu" aria-label="Open Navigation Menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Nav Overlay Drawer -->
+  <div class="mobile-nav-overlay" aria-hidden="true">
+    <div class="mobile-nav-menu">
+      <a href="index.html" class="mobile-nav-link active" data-i18n="nav_home">Home</a>
+      <a href="about.html" class="mobile-nav-link" data-i18n="nav_about">About Me</a>
+      <a href="skills.html" class="mobile-nav-link" data-i18n="nav_skills">Skills</a>
+      <a href="projects.html" class="mobile-nav-link" data-i18n="nav_projects">Projects</a>
+      <a href="activities.html" class="mobile-nav-link" data-i18n="nav_activities">Activities</a>
+      <a href="contact.html" class="mobile-nav-link" data-i18n="nav_contact">Contact</a>
+      <div class="mobile-nav-actions">
+        <button class="btn-lang-toggle" style="flex: 1;">EN</button>
+        <button class="btn-theme-toggle" style="flex: 1;"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <!-- Hero Section -->
+    <section class="section section-hero">
+      <div class="container">
+        <div class="hero-wrapper">
+          <div class="hero-tag" data-i18n="hero_tag">PORTFOLIO &amp; ARCHIVE</div>
+          
+          <h1 class="hero-title">
+            엄서현 <span style="font-size: 0.6em; font-weight: 500; color: var(--color-text-muted);">| Seohyun Eom</span>
+          </h1>
+
+          <div class="meta-pills">
+            <span class="meta-pill" data-i18n="affiliation_text">한림대학교 식품영양학과 (2023년 입학)</span>
+            <span class="meta-pill" data-i18n="role_student">식품영양학도</span>
+          </div>
+
+          <blockquote class="hero-quote" data-i18n="hero_quote">
+            배우고 탐구하며, 경험을 통해 성장하는 식품영양학도입니다.
+          </blockquote>
+
+          <p class="hero-desc">
+            식품영양학을 공부하며 <strong>식품 가공·개발</strong>과 <strong>식품 위생·안전</strong> 분야에 깊은 관심을 두고 있습니다.
+            단순한 이론 습득에 그치지 않고, 데이터 분석과 다학제적 팀 프로젝트를 통해 현실의 문제를 다각도로 분석하며 실질적인 가치를 창출하는 역량을 키워가고 있습니다.
+          </p>
+
+          <div class="hero-actions">
+            <a href="projects.html" class="btn btn-primary" data-i18n="hero_cta_projects">프로젝트 살펴보기</a>
+            <a href="about.html" class="btn btn-secondary" data-i18n="nav_about">About Me</a>
+            <a href="contact.html" class="btn btn-outline" data-i18n="hero_cta_contact">이메일 문의하기</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Core Skills Highlights Section -->
+    <section class="section" style="background-color: var(--color-bg-secondary); border-top: 1px solid var(--color-border); border-bottom: 1px solid var(--color-border);">
+      <div class="container">
+        <div class="section-header" style="display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 1rem;">
+          <div>
+            <span class="section-tag">COMPETENCIES</span>
+            <h2 class="section-title" data-i18n="summary_core_skills">주요 핵심 역량 요약</h2>
+            <p class="section-subtitle">식품영양 전문성과 분석 역량, 커뮤니케이션 능력을 입체적으로 보여주는 6대 역량입니다.</p>
+          </div>
+          <a href="skills.html" class="btn btn-secondary btn-sm" data-i18n="view_all_skills">전체 역량 자세히 보기 →</a>
+        </div>
+
+        <div id="home-skills-summary" class="grid-3">
+          <!-- Dynamically populated via main.js from skills.json -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Pathways / Call to Action Section -->
+    <section class="section">
+      <div class="container">
+        <div class="grid-2">
+          <div class="card" style="padding: var(--space-8); justify-content: space-between;">
+            <div>
+              <span class="section-tag">FEATURED WORK</span>
+              <h3 style="font-size: var(--text-2xl); font-weight: 800; color: var(--color-text-primary); margin-bottom: 0.75rem;">프로젝트 갤러리</h3>
+              <p style="font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.7; margin-bottom: 1.5rem;">
+                배달의민족 CSR 공급망 분석부터 47개 상급종합병원 재무 통계, 머신러닝 HR 예측 모델, 고혈압 환자를 위한 DASH-T 밀키트 기획까지 실증적인 프로젝트 결과물을 확인하실 수 있습니다.
+              </p>
+            </div>
+            <div>
+              <a href="projects.html" class="btn btn-primary" data-i18n="hero_cta_projects">프로젝트 살펴보기 →</a>
+            </div>
+          </div>
+
+          <div class="card" style="padding: var(--space-8); justify-content: space-between;">
+            <div>
+              <span class="section-tag">FIELD EXPERIENCE</span>
+              <h3 style="font-size: var(--text-2xl); font-weight: 800; color: var(--color-text-primary); margin-bottom: 0.75rem;">실습 및 활동 타임라인</h3>
+              <p style="font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.7; margin-bottom: 1.5rem;">
+                어린이·사회복지급식관리지원센터 영양사 실습, 집단급식소 순회방문지도, 조리종사자 안전교육 콘텐츠 제작 등 연도별로 축적해 온 현장 활동 이력을 정리했습니다.
+              </p>
+            </div>
+            <div>
+              <a href="activities.html" class="btn btn-secondary" data-i18n="nav_activities">활동 이력 보기 →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer Component -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <h3 class="footer-brand-title">엄서현 | Seohyun Eom</h3>
+          <p class="footer-brand-desc" data-i18n="footer_tagline">식품영양학과 데이터·경영의 융합을 지향하는 개인 포트폴리오입니다.</p>
+          <a href="contact.html" class="btn btn-primary btn-sm" data-i18n="send_email">이메일 보내기</a>
+        </div>
+
+        <div class="footer-links-group">
+          <div>
+            <h4 class="footer-col-title" data-i18n="footer_quick_links">바로가기</h4>
+            <ul class="footer-nav-list">
+              <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+              <li><a href="about.html" data-i18n="nav_about">About Me</a></li>
+              <li><a href="skills.html" data-i18n="nav_skills">Skills</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4 class="footer-col-title">Portfolio</h4>
+            <ul class="footer-nav-list">
+              <li><a href="projects.html" data-i18n="nav_projects">Projects</a></li>
+              <li><a href="activities.html" data-i18n="nav_activities">Activities</a></li>
+              <li><a href="contact.html" data-i18n="nav_contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span data-i18n="footer_copyright">© 2026 Seohyun Eom. All rights reserved.</span>
+        <span>Hallym University • Department of Food Science and Nutrition</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/data-store.js"></script>
+  <script src="assets/js/theme.js"></script>
+  <script src="assets/js/language.js"></script>
+  <script src="assets/js/navigation.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
+

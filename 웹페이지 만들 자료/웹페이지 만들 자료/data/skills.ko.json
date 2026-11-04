@@ -1,0 +1,198 @@
+{
+  "categories": [
+    {
+      "id": "major-knowledge",
+      "name": "전공 지식",
+      "icon": "flask",
+      "description": "영양학, 식품가공학, 조리원리, 식품위생학 등 전공 전반에 걸친 이론적 기초와 실험 역량을 보유하고 있습니다.",
+      "items": [
+        {
+          "name": "임상 및 맞춤 영양 설계",
+          "detail": "고혈압, 당뇨 등 만성질환 환자를 위한 DASH 식단, 시간제한식이(TRF) 기반 맞춤형 식단 및 메디푸드 영양 설계",
+          "level": "Advanced"
+        },
+        {
+          "name": "식품 위생 관리 및 HACCP",
+          "detail": "급식 및 조리 환경 ATP 미생물 오염도 검사, 식재료 검수, 교차오염 방지 관리 가이드라인 수립",
+          "level": "Advanced"
+        },
+        {
+          "name": "조리원리 및 실험 평가",
+          "detail": "한식조리기능사 기준 30종 이상의 조리 실험 수행, 조리 과정별 물리화학적 특성 및 관능 평가",
+          "level": "Proficient"
+        },
+        {
+          "name": "푸드테크 및 식품산업 트렌드",
+          "detail": "대체단백질, 맞춤형 헬스케어 푸드, HMR 밀키트 시장 분석 및 신제품 기획 인사이트 도출",
+          "level": "Proficient"
+        }
+      ]
+    },
+    {
+      "id": "data-statistics",
+      "name": "데이터 분석·통계",
+      "icon": "chart-bar",
+      "description": "통계적 가설 검정과 머신러닝 모형을 통해 수치 데이터로부터 실질적인 의사결정 인사이트를 도출합니다.",
+      "items": [
+        {
+          "name": "머신러닝 분류 모형",
+          "detail": "Python scikit-learn 기반 Random Forest, Gradient Boosting 등을 활용한 승진/이탈 예측 모형 구축 및 특성 중요도(Feature Importance) 분석",
+          "level": "Proficient"
+        },
+        {
+          "name": "통계 다중회귀분석",
+          "detail": "SPSS 및 통계 도구를 활용한 47개 상급종합병원 재무/의료질 데이터 횡단면 다중회귀분석 및 상관분석 수행",
+          "level": "Proficient"
+        },
+        {
+          "name": "Python & 데이터 전처리",
+          "detail": "Pandas, NumPy를 이용한 정형 데이터 결측치 처리, 이상치 정제 및 시각화",
+          "level": "Intermediate"
+        },
+        {
+          "name": "빅데이터 상권 및 소비자 트렌드 조사",
+          "detail": "공공데이터 및 플랫폼 상권 빅데이터를 활용한 외식·식품 소비 패턴 분석",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "doc-presentation",
+      "name": "문서·발표자료 제작",
+      "icon": "presentation",
+      "description": "학술 논문, 경영진 보고서, 카드뉴스, 발표 슬라이드 등 독자의 눈높이에 맞춘 고품질 결과물을 기획하고 제작합니다.",
+      "items": [
+        {
+          "name": "경영진/임원용 의사결정 보고서",
+          "detail": "복잡한 데이터 분석 결과를 한 장 요약(Executive Summary)과 시사점 중심으로 정갈하게 구조화한 보고서 작성",
+          "level": "Advanced"
+        },
+        {
+          "name": "학술 발표 및 프레젠테이션 디자인",
+          "detail": "인포그래픽과 시각화 차트를 활용하여 핵심 메시지를 명료하게 전달하는 PPT 제작 및 발표",
+          "level": "Advanced"
+        },
+        {
+          "name": "교육용 카드뉴스 & 미디어 콘텐츠",
+          "detail": "조리종사자 안전교육 카드뉴스, 신입생 가이드 등 독자 친화적인 인포그래픽 콘텐츠 기획",
+          "level": "Proficient"
+        },
+        {
+          "name": "생성형 AI 생산성 도구 활용",
+          "detail": "ChatGPT, 프롬프트 엔지니어링, AI 이미지 및 영상 제작 도구를 연계한 업무 생산성 극대화",
+          "level": "Advanced"
+        }
+      ]
+    },
+    {
+      "id": "collaboration-teamwork",
+      "name": "협업·팀 프로젝트",
+      "icon": "users",
+      "description": "다양한 전공자들과의 다학제적 팀 프로젝트를 이끌며 일정 관리, 역할 분담, 적극적인 커뮤니케이션을 주도합니다.",
+      "items": [
+        {
+          "name": "다학제적 융합 협업",
+          "detail": "금융재무학과, 경영학과, 식품영양학과 학우들과의 융합 팀플에서 공급망 CSR 파트 담당 및 시너지 창출",
+          "level": "Advanced"
+        },
+        {
+          "name": "현장 이해관계자 커뮤니케이션",
+          "detail": "급식센터 영양사 실습 중 조리종사자, 시설 센터장, 유치원 교사 대상 현장 맞춤형 지도 및 원활한 소통",
+          "level": "Advanced"
+        },
+        {
+          "name": "프로젝트 리드 및 마일스톤 관리",
+          "detail": "조별 과제 주제 선정, 설문조사 계획 수립, 보고서 최종 취합 및 발표 총괄",
+          "level": "Proficient"
+        }
+      ]
+    },
+    {
+      "id": "problem-solving",
+      "name": "문제 해결·자료 조사",
+      "icon": "search",
+      "description": "국내외 학술 문헌, 공공 보건 통계, 정부 정책 가이드라인을 면밀히 분석하여 객관적인 문제 해결 솔루션을 도출합니다.",
+      "items": [
+        {
+          "name": "공공 통계 및 학술 문헌 심층 조사",
+          "detail": "질병관리청 국민건강영양조사, 학생건강검사 표본통계 기반 강원도 아동비만 현황 심층 분석",
+          "level": "Advanced"
+        },
+        {
+          "name": "과학적 근거 기반 팩트체크",
+          "detail": "인공감미료(아스파탐) 대중인식과 WHO/FDA 과학적 연구결과 비교를 통한 객관적 식품안전 정보 정립",
+          "level": "Advanced"
+        },
+        {
+          "name": "현장 개선안 도출 및 솔루션 제안",
+          "detail": "급식실 순회지도 과정에서 발생한 칼·도마 교차사용 문제에 대한 컬러 방수 스티커 솔루션 기획",
+          "level": "Proficient"
+        }
+      ]
+    },
+    {
+      "id": "certificates-prep",
+      "name": "자격증 및 시험 준비",
+      "icon": "badge-check",
+      "description": "식품영양 전공자로서의 전문성과 데이터·경영 융합 역량을 공인받기 위한 체계적인 자격증 취득 과정을 밟고 있습니다.",
+      "items": []
+    }
+  ],
+  "certificates": [
+    {
+      "id": "dietitian",
+      "name": "영양사 면허",
+      "nameEn": "Registered Dietitian (Korea)",
+      "category": "전공 관련 (Major)",
+      "issuer": "한국보건의료인국가시험원 (KHPLEI)",
+      "status": "준비 중",
+      "statusKey": "in-progress",
+      "year": "2026-2027",
+      "description": "국민 영양 관리와 급식 서비스 총괄을 위한 국가전문자격으로 학과 커리큘럼 및 임상·급식 실습과 병행 준비 중"
+    },
+    {
+      "id": "hygiene-specialist",
+      "name": "위생사 면허",
+      "nameEn": "Hygienist License",
+      "category": "전공 관련 (Major)",
+      "issuer": "한국보건의료인국가시험원 (KHPLEI)",
+      "status": "준비 중",
+      "statusKey": "in-progress",
+      "year": "2026",
+      "description": "식품 및 환경 위생, 감염병 관리 등 공중보건 위생 실무 전문성 확보를 위한 국가전문자격"
+    },
+    {
+      "id": "food-safety-engineer",
+      "name": "식품안전기사 / 식품산업기사",
+      "nameEn": "Food Safety Engineer / Industrial Engineer",
+      "category": "전공 관련 (Major)",
+      "issuer": "한국산업인력공단 (Q-Net)",
+      "status": "준비 중",
+      "statusKey": "in-progress",
+      "year": "2026-2027",
+      "description": "식품 제조·가공 공정의 품질검사, HACCP 및 안전관리 전문 기술인력 국가기술자격 준비"
+    },
+    {
+      "id": "adsp",
+      "name": "데이터분석준전문가 (ADsP)",
+      "nameEn": "Advanced Data Analytics Semi-Professional",
+      "category": "데이터·사무 관련 (Data & Office)",
+      "issuer": "한국데이터산업진흥원 (K-data)",
+      "status": "응시 예정",
+      "statusKey": "scheduled",
+      "year": "2026",
+      "description": "데이터 이해, 데이터 분석 기획 및 분석 기법 실무 역량을 입증하는 국가공인 데이터 전문 자격"
+    },
+    {
+      "id": "computer-specialist-level2",
+      "name": "컴퓨터활용능력 2급",
+      "nameEn": "Computer Specialist in Spreadsheet (Level 2)",
+      "category": "데이터·사무 관련 (Data & Office)",
+      "issuer": "대한상공회의소",
+      "status": "취득 완료",
+      "statusKey": "acquired",
+      "year": "2024",
+      "description": "스프레드시트 및 사무 데이터베이스 처리 실무 역량 공인 자격"
+    }
+  ]
+}
